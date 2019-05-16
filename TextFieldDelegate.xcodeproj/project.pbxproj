@@ -12,6 +12,7 @@
 		F1298B87228D58AF001CA24D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1298B85228D58AF001CA24D /* Main.storyboard */; };
 		F1298B89228D58B0001CA24D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1298B88228D58B0001CA24D /* Assets.xcassets */; };
 		F1298B8C228D58B0001CA24D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1298B8A228D58B0001CA24D /* LaunchScreen.storyboard */; };
+		F1298B94228D63C2001CA24D /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1298B93228D63C2001CA24D /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F1298B88228D58B0001CA24D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1298B8B228D58B0001CA24D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1298B8D228D58B0001CA24D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1298B93228D63C2001CA24D /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				F1298B81228D58AF001CA24D /* AppDelegate.swift */,
 				F1298B83228D58AF001CA24D /* ViewController.swift */,
 				F1298B85228D58AF001CA24D /* Main.storyboard */,
+				F1298B93228D63C2001CA24D /* DetailViewController.swift */,
 				F1298B88228D58B0001CA24D /* Assets.xcassets */,
 				F1298B8A228D58B0001CA24D /* LaunchScreen.storyboard */,
 				F1298B8D228D58B0001CA24D /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1298B94228D63C2001CA24D /* DetailViewController.swift in Sources */,
 				F1298B84228D58AF001CA24D /* ViewController.swift in Sources */,
 				F1298B82228D58AF001CA24D /* AppDelegate.swift in Sources */,
 			);
